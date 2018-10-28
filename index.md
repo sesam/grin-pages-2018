@@ -2,10 +2,11 @@
 layout: home
 excerpt: "This post should [...]"
 image:
-  path: /images/grin-yellow-smiley.png
+  path: /images/grin-banner.png
   thumbnail: /images/grin-yellow-smiley.png
   caption: "MimbleWimble in Grin"
 header:
+  image: /images/grin-yellow-smiley.png
   overlay_image: /images/grin-banner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "MimbleWimble Grin"
