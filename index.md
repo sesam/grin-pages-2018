@@ -39,7 +39,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 	<article class="entry h-entry">
 		<header class="entry-header">
 			<h3 class="entry-title p-name">
-			  <i class="fas fa-snowflake-o"></i>
+			  <i class="fas fa-snowflake"></i>
 				Decentralized
 			</h3>
 		</header>
