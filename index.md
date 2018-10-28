@@ -1,7 +1,9 @@
 ---
 layout: home
-image:
-  path: /images/grin-banner.png
+excerpt: "This post should [...]"
+header:
+  overlay_image: /images/grin-banner.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   thumbnail: /images/grin-yellow-smiley.png
   caption: "MimbleWimble in Grin"
 ---
