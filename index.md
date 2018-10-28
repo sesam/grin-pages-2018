@@ -17,7 +17,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 	<article class="entry h-entry">
 		<header class="entry-header">
 			<h3 class="entry-title p-name">
-			  <i class="fas fa-feather-alt"></i>
+			  <i class="fas fa-eye-slash"></i>
 				Private
 			</h3>
 		</header>
@@ -28,7 +28,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 	<article class="entry h-entry">
 		<header class="entry-header">
 			<h3 class="entry-title p-name">
-			  <i class="fas fa-bolt"></i>
+			  <i class="fas fa-signal"></i>
 				Scalable
 			</h3>
 		</header>
@@ -39,7 +39,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 	<article class="entry h-entry">
 		<header class="entry-header">
 			<h3 class="entry-title p-name">
-			  <i class="fas fa-arrows-alt"></i>
+			  <i class="fas fa-snowflake-o"></i>
 				Decentralized
 			</h3>
 		</header>
