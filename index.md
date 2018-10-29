@@ -1,4 +1,6 @@
 ---
+layout: home
+teaser: /images/grin-banner.png
 excerpt: "This post should [...]"
 image:
   path: /images/grin-banner.png
