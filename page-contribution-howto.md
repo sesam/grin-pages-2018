@@ -20,7 +20,7 @@ If you're a more advanced user you could consider having more than one branch an
 You could also use git on the command line or via some graphical Git client, or use a git integration in your text editor.
 
 # Organizing files
-Adding a new file? Follow the guidlines here [https://github.com/mmistakes/so-simple-theme#structure](File structure for current page theme)
+Adding a new file? Follow the guidlines here [File structure for current page theme](https://github.com/mmistakes/so-simple-theme#structure)
 
 # Logo
 It's been voted on, and will probably be voted on sometime again in the future. Tastes keep changing.
@@ -37,6 +37,6 @@ git push --set-upstream origin my-task-branch
 (then find the link that is displayed, and browse there to easily create a PR)
 
 # Previous examples, see here for content ideas:
-- https://grin-tech.org/
-- https://grin.mw/up/
-- https://sesam.github.io/grin-pages/
+- [https://grin-tech.org/](https://grin-tech.org/)
+- [https://grin.mw/up/](https://grin.mw/up/)
+- [https://sesam.github.io/grin-pages/](https://sesam.github.io/grin-pages/)
