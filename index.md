@@ -7,6 +7,7 @@ image:
   caption: "MimbleWimble in Grin"
 header:
   image: /images/grin-yellow-smiley.png
+  teaser: /images/grin-banner.png
   overlay_image: /images/grin-banner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "MimbleWimble Grin"
