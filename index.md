@@ -1,9 +1,8 @@
 ---
 layout: home
-teaser: /images/grin-banner.png
+teaser: /images/grin-banner2.jpg
 excerpt: "This post should [...]"
 image:
-  path: /images/grin-banner.png
   thumbnail: /images/grin-yellow-smiley.png
   caption: "MimbleWimble in Grin"
 header:
