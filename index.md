@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 excerpt: "This post should [...]"
 image:
   path: /images/grin-banner.png
