@@ -1,16 +1,9 @@
 ---
 layout: home
-teaser: /images/grin-banner2.jpg
-excerpt: "This post should [...]"
 image:
+  path: /images/grin-banner2.jpg
   thumbnail: /images/grin-yellow-smiley.png
   caption: "MimbleWimble in Grin"
-header:
-  image: /images/grin-yellow-smiley.png
-  teaser: /images/grin-banner.png
-  overlay_image: /images/grin-banner.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "MimbleWimble Grin"
 ---
 
 Grin is being tested. The release is planned for early 2019.
